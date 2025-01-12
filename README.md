@@ -1,6 +1,8 @@
 # robustbetareg
 Robust beta regression Use robustbetareg With (In) R Software
 
+https://www.youtube.com/watch?v=FQ-P5M6jU70
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
